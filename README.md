@@ -28,3 +28,5 @@ Sales Analysis: Microsoft Excel
 Sharks Attack: Tableau
 
 World Energy Consumption: Tableau
+
+Video explanation is on my LinkedIn page: https://www.linkedin.com/in/goodness-opateye-534898196/
